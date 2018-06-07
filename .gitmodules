@@ -443,3 +443,6 @@
 	path = PFE1718-automation-handler
 	url = https://github.com/PFE1718/mycroft-automation-handler.git
 
+[submodule "petfoodalert-skill"]
+	path = petfoodalert-skill
+	url = https://github.com/MrLaaky/petfoodalert-skill
