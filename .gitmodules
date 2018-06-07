@@ -446,3 +446,12 @@
 [submodule "petfoodalert-skill"]
 	path = petfoodalert-skill
 	url = https://github.com/MrLaaky/petfoodalert-skill
+[submodule "can-my-pet-eat-skill"]
+	path = can-my-pet-eat-skill
+	url = https://github.com/MrLaaky/can-my-pet-eat-skill
+[submodule "tagesschau-news-skill"]
+	path = tagesschau-news-skill
+	url = https://github.com/MrLaaky/tagesschau-news-skill
+[submodule "zdf-news-skill"]
+	path = zdf-news-skill
+	url = https://github.com/MrLaaky/zdf-news-skill
