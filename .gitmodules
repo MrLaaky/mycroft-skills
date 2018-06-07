@@ -442,3 +442,4 @@
 [submodule "PFE1718-automation-handler"]
 	path = PFE1718-automation-handler
 	url = https://github.com/PFE1718/mycroft-automation-handler.git
+
